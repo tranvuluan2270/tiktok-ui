@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/tiktok-ui/static/css/main.ab790005.css",
-    "main.js": "/tiktok-ui/static/js/main.b82c3619.js",
-    "static/js/787.4c9d15e8.chunk.js": "/tiktok-ui/static/js/787.4c9d15e8.chunk.js",
-    "static/media/ProximaNova-Semibold.woff2": "/tiktok-ui/static/media/ProximaNova-Semibold.db7972dbe0b808f96bae.woff2",
-    "static/media/sofiapro-bold.woff": "/tiktok-ui/static/media/sofiapro-bold.086ed00f3060992f2938.woff",
-    "static/media/Proxima-Nova-Bold.woff": "/tiktok-ui/static/media/Proxima-Nova-Bold.6cd7dcaa6293ecf61e80.woff",
-    "static/media/Proxima-Nova-Regular.woff2": "/tiktok-ui/static/media/Proxima-Nova-Regular.6c83037ae28747e6d774.woff2",
-    "static/media/logo.svg": "/tiktok-ui/static/media/logo.60657302c2c6369f7983eb3d85955c1a.svg",
-    "index.html": "/tiktok-ui/index.html",
-    "main.ab790005.css.map": "/tiktok-ui/static/css/main.ab790005.css.map",
-    "main.b82c3619.js.map": "/tiktok-ui/static/js/main.b82c3619.js.map",
-    "787.4c9d15e8.chunk.js.map": "/tiktok-ui/static/js/787.4c9d15e8.chunk.js.map"
+    "main.css": "/static/css/main.f187f65b.css",
+    "main.js": "/static/js/main.b50ba26b.js",
+    "static/js/787.4c9d15e8.chunk.js": "/static/js/787.4c9d15e8.chunk.js",
+    "static/media/ProximaNova-Semibold.woff2": "/static/media/ProximaNova-Semibold.db7972dbe0b808f96bae.woff2",
+    "static/media/sofiapro-bold.woff": "/static/media/sofiapro-bold.086ed00f3060992f2938.woff",
+    "static/media/Proxima-Nova-Bold.woff": "/static/media/Proxima-Nova-Bold.6cd7dcaa6293ecf61e80.woff",
+    "static/media/Proxima-Nova-Regular.woff2": "/static/media/Proxima-Nova-Regular.6c83037ae28747e6d774.woff2",
+    "static/media/logo.svg": "/static/media/logo.60657302c2c6369f7983eb3d85955c1a.svg",
+    "index.html": "/index.html",
+    "main.f187f65b.css.map": "/static/css/main.f187f65b.css.map",
+    "main.b50ba26b.js.map": "/static/js/main.b50ba26b.js.map",
+    "787.4c9d15e8.chunk.js.map": "/static/js/787.4c9d15e8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab790005.css",
-    "static/js/main.b82c3619.js"
+    "static/css/main.f187f65b.css",
+    "static/js/main.b50ba26b.js"
   ]
 }
